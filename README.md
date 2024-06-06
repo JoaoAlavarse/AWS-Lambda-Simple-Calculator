@@ -1,3 +1,5 @@
+AWS-Lambda-Simple-Calculator
+
 Este é um projeto simples que implementa uma calculadora em python utilizando a AWS Lambda
 
 Link para teste da lambda: https://i6sk4vpjbcviseceejxsddzjti0toeep.lambda-url.us-east-2.on.aws/
